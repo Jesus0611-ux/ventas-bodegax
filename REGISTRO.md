@@ -1,3 +1,4 @@
 | Fase | Qué generó la IA | Qué corregí o rechacé | Por qué |
 |------|------------------|-----------------------|---------|
 | Fase 1 | Kiro generó el documento D0.md con el problema, requisitos y reglas de negocio. | Le pedí corregir dos errores de redacción, agregar seguridad y aclarar los supuestos. | Para que el documento sea más claro y cumpla con lo solicitado. |
+| Fase 2 - Requisitos | Kiro generó requirements.md con los requisitos funcionales, no funcionales y criterios de aceptación en formato EARS. | Le pedí agregar la validación de stock negativo, rechazar ventas de productos inexistentes y aclarar que los 2 segundos son una meta propuesta. | Para evitar datos incorrectos, controlar errores en las ventas y diferenciar los requisitos del caso de las propuestas del proyecto. |
